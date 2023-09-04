@@ -2,7 +2,7 @@ import React from "react";
 import Tile from "./Tile";
 
 export default function Main() {
-  //just comment jj .
+  //just not yet done.
   return (
     <div className="w-full h-full">
       <Tile />
